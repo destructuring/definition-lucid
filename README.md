@@ -1,4 +1,4 @@
 definition-lucid
 ================
 
-vagrant definition for a lucid distro box
+veewee/vagrant definition for a lucid distro box
